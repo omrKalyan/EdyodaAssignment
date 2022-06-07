@@ -1,0 +1,10 @@
+ASSIGNMENT 4
+I found hte RS to be working. when the pod is deleted another pod was created.
+[root@ip-172-31-16-102 networking]# kubectl apply -f virtual-service-all-v1.yaml
+virtualservice.networking.istio.io/productpage unchanged
+virtualservice.networking.istio.io/reviews unchanged
+virtualservice.networking.istio.io/ratings unchanged
+virtualservice.networking.istio.io/details unchanged
+
+
+ASSIGNMENT 1
